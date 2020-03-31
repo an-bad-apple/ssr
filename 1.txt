@@ -1,0 +1,13 @@
+{
+"port": 42246,
+"protocol": "vmess",
+"settings": {
+"clients": [
+{
+"id": "5a4283f8-8aeb-40c6-b23f-690f0dc3d817",
+"level": 1,
+"alterId": 64
+}
+]
+}
+}
